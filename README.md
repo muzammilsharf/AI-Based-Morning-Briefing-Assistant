@@ -1,12 +1,12 @@
-# AI-Based Morning Briefing Assistant
+# AI-Based Urdu Morning Briefing Assistant
 
-A personalized, voice-activated morning assistant designed for efficiency and inspiration. This system integrates your daily schedule, the latest news, and local Islamabad weather into a single poetic briefing.
+A personalized, Urdu voice-activated morning assistant designed for efficiency and inspiration. This system integrates your daily schedule, the latest news, and local Islamabad weather into a single poetic briefing.
 
 ## 🚀 Features
 - **Open-Source Brain**: Powered by **Llama 3.3 (via Groq)** for ultra-fast, intelligent script generation.
 - **Live Weather**: Real-time updates for **Islamabad** using the Open-Meteo API (no API key required).
 - **Calendar Integration**: Fetches your actual schedule directly from **Google Calendar**.
-- **Edge TTS**: Uses high-quality neural voices for a natural-sounding briefing.
+- **Edge TTS**: Uses high-quality urdu neural voices for a natural-sounding briefing.
 
 ## 🛠️ Project Structure
 - `main.py`: The entry point that orchestrates the data fetching and speech.
