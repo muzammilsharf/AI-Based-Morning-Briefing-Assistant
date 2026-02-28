@@ -1,10 +1,9 @@
-# 🌅 Muzamil's Morning Briefing AI
+# AI-Based Morning Briefing Assistant
 
 A personalized, voice-activated morning assistant designed for efficiency and inspiration. This system integrates your daily schedule, the latest news, and local Islamabad weather into a single poetic briefing.
 
 ## 🚀 Features
 - **Open-Source Brain**: Powered by **Llama 3.3 (via Groq)** for ultra-fast, intelligent script generation.
-- **Sufi-Inspired Greetings**: Starts your day with meaningful quotes (Rumi, Bulleh Shah, etc.).
 - **Live Weather**: Real-time updates for **Islamabad** using the Open-Meteo API (no API key required).
 - **Calendar Integration**: Fetches your actual schedule directly from **Google Calendar**.
 - **Edge TTS**: Uses high-quality neural voices for a natural-sounding briefing.
@@ -26,8 +25,8 @@ A personalized, voice-activated morning assistant designed for efficiency and in
 ### 2. Local Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/morning-briefing-ai.git](https://github.com/your-username/morning-briefing-ai.git)
-cd morning-briefing-ai
+git clone [https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant.git]
+cd ai-based-morning-briefing-assistant
 
 # Install dependencies
 pip install -r requirements.txt
